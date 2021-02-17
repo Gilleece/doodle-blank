@@ -1,1 +1,1 @@
-Why are you here? This is just a random doodle!!
+Simple CSS based image editor, uses JS to update in realtime based on user input (to be expanded with more effects later). 
